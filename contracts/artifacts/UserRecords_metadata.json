@@ -1417,11 +1417,11 @@
 			]
 		},
 		"contracts/degree.sol": {
-			"keccak256": "0x918c3d4c7fafc87f01b935c404929990d912e11197609e3f2cc6cf2220bc36ab",
+			"keccak256": "0xd2d06897f56a94476c10d773b70b051e8fade85bf91a08e95f03ae223f9e6553",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://dce46de1a839e7e8b6edd801baee004ebb58c5a46f3bbc7fdf676f460604e89f",
-				"dweb:/ipfs/QmSJ694cXfiKPVcniaN7WiF9Eaga5odn5yedAZa6RC8Qrn"
+				"bzz-raw://f8c8c960d6af1e29c64197f228b446492c4cba36785fe6a2cb77eb78db28bf13",
+				"dweb:/ipfs/QmZ5fNwvjiMijZuFRnH3UV8rJVLZBEt6eRwMinuiyHdmr6"
 			]
 		}
 	},

@@ -93,6 +93,8 @@ contract UserRecords is ERC721URIStorage, Ownable {
         _;
     }
 
+    
+
     // Function to authorize a university
     function authorizeUniversity(address university, string memory name) external onlyOwner {
         authorizedUniversities[university] = name;
